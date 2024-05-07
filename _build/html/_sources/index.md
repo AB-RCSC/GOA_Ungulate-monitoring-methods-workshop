@@ -15,55 +15,53 @@ editor_options:
     wrap: none
 ---
 
-# **GOA Ungulate monitoring methods workshop**
-<br/><br/>
-::::{grid}
-:gutter: 2
+# Ungulate monitoring methods workshop
+<br>
+
+***
+
+::::{grid} 
+:gutter: 3
 
 :::{grid-item}
-<font size="4">**June 4-6, 2024**</font>  
-
-Register here (need link)
-:::
-
-:::{grid-item}
-```{figure} ./MuleDeerHerdGordonCourt.661eabd220c747.21541121.jpg
-:height: 200px
+```{figure} ./files/logos/govt_logo_663142569349d6_04655200.png 
+:width: 180px 
 :align: center
 ```
 :::
 
-::::
-
-::: {warning}
-Registration will close on **May 16th**
+:::{grid-item}
+```{figure} ./files/logos/ABMI-Horizontal-FullColour.jpg
+:width: 200px 
+:align: center
+```
 :::
 
-*** 
-## **Workshop Objective**
+:::{grid-item}
+```{figure} ./files/logos/RCSC_logo2.png
+:width: 140px 
+:align: center
+:::
+::::
+***
 
-To collectively explore **current and prospective** monitoring methods for ungulates, considering **opportunities, challenges, and barriers to implementation**, and **identify next steps towards application** of best methods to improve ungulate population management  
+<font size="4">**June 4-6, 2024**</font>
 
-*** 
-## **Contact Information**
+Register here (need link)
 
-If you have questions or would like further information, please contact Dr. Anne Hubbs, Alberta Environment & Protected Areas, [Anne.Hubbs@gov.ab.ca](mailto:Anne.Hubbs@gov.ab.ca).
-
-*** 
-## **Ungulate Monitoring Methods Jurisdictional Survey**
-<https://form.jotform.com/241216843356254>
-
-Alberta Environment and Protected Areas (EPA) is interested in gathering insights from other jurisdictions regarding their current or proposed methods for monitoring ungulates. This information will aid us in evaluating options to address our management objectives and in determining opportunities for collaboration to address shared knowledge gaps.
-This survey is intended to be completed by a representative from each jurisdiction who is familiar with the monitoring methods used across the state or province (e.g., ungulate, or big game specialist).
-
-The survey takes about 10 minutes to complete.
-
-A summary of the results will be provided to participating jurisdictions.
-
-Thank you for your help. 
+:::{warning}
+Registration will close on **May 17th at 5 pm MST**
+:::
 
 ***
-## **Agenda**
+
+## Workshop Objective
+
+To collectively explore *current and prospective* monitoring methods for ungulates, considering *opportunities, challenges, and barriers to implementation*, and *identify next steps towards application* of best methods to improve ungulate population management.
+
+***
+
+## Agenda  
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /f50cd11f3d1823f8b2f3f115bb19084c/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf" type="application/pdf" width="840px" height="660px">
@@ -74,6 +72,12 @@ Thank you for your help.
     </embed>
 </object>   
 
-*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./files/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf)
+*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./files/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf)                                                       
 
-*** 
+***
+
+## Contact Information
+
+If you have questions or would like further information, please contact Dr. Anne Hubbs, Alberta Environment & Protected Areas, [Anne.Hubbs@gov.ab.ca](mailto:Anne.Hubbs@gov.ab.ca).
+
+***
