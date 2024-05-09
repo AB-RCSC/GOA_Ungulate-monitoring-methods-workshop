@@ -15,8 +15,17 @@ editor_options:
     wrap: none
 ---
 
-# Info for Participants
+# Information for Participants
 
-::: {note}
-Coming soon!
-:::
+<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf/pdf" width="840px" height="660px">
+    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/da43668173720fac13561dd06ca200f9/MMonitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf">Download PDF</a>.</p>
+    </embed>
+</object>   
+
+*Download the PDF* [Information for Participants - GOA Ungulate monitoring methods workshop](./files/Information-Package-for-Participants-May-7-2024.pdf)                                                       
+
+***

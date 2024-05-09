@@ -17,29 +17,28 @@ editor_options:
 
 # Ungulate monitoring methods workshop
 <br>
-
-***
+<br>
 
 ::::{grid} 
 :gutter: 3
 
 :::{grid-item}
-```{figure} ./files/logos/govt_logo_663142569349d6_04655200.png 
+```{figure} ./logos/govt_logo_663142569349d6_04655200.png 
 :width: 180px 
 :align: center
 ```
 :::
 
 :::{grid-item}
-```{figure} ./files/logos/ABMI-Horizontal-FullColour.jpg
+```{figure} ./logos/ABMI-Horizontal-FullColour.jpg
 :width: 200px 
 :align: center
 ```
 :::
 
 :::{grid-item}
-```{figure} ./files/logos/RCSC_logo2.png
-:width: 140px 
+```{figure} ./logos/RCSC_logo2.png
+:width: 100px 
 :align: center
 :::
 ::::
@@ -57,22 +56,22 @@ Registration will close on **May 17th at 5 pm MST**
 
 ## Workshop Objective
 
-To collectively explore *current and prospective* monitoring methods for ungulates, considering *opportunities, challenges, and barriers to implementation*, and *identify next steps towards application* of best methods to improve ungulate population management.
+To collectively explore **current and prospective** monitoring methods for ungulates, considering **opportunities, challenges, and barriers to implementation**, and **identify next steps towards application** of best methods to improve ungulate population management.
 
 ***
 
 ## Agenda  
 
-<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/f50cd11f3d1823f8b2f3f115bb19084c/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf" type="application/pdf" width="840px" height="660px">
-    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/f50cd11f3d1823f8b2f3f115bb19084c/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/f50cd11f3d1823f8b2f3f115bb19084c/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf">Download PDF</a>.</p>
+<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
+/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf" type="application/pdf" width="840px" height="660px">
+    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
+/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
+/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">Download PDF</a>.</p>
     </embed>
 </object>   
 
-*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./files/Monitoring-Methods-Workshop-Draft-Condensed-Agenda-May-5-2024_AH_WithNotes3.pdf)                                                       
+*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./1_pages/files/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf)                                                       
 
 ***
 
