@@ -20,7 +20,7 @@ editor_options:
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /85cebce89b0b7fe4dcf5ed1ddaeac3c3/Information-Package-for-Invited-Speakers-May-7-2024.pdf/pdf" width="840px" height="660px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/85cebce89b0b7fe4dcf5ed1ddaeac3c3/MMonitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
+/85cebce89b0b7fe4dcf5ed1ddaeac3c3/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /85cebce89b0b7fe4dcf5ed1ddaeac3c3/Information-Package-for-Invited-Speakers-May-7-2024.pdf">Download PDF</a>.</p>
     </embed>

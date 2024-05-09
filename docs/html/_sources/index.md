@@ -62,12 +62,12 @@ To collectively explore **current and prospective** monitoring methods for ungul
 
 ## Agenda  
 
-<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
-/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf" type="application/pdf" width="840px" height="660px">
-    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
-/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/1_pages/_downloads
-/bc22f971a84cd040d9d78111182f2bfd/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">Download PDF</a>.</p>
+<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf" type="application/pdf" width="840px" height="660px">
+    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">Download PDF</a>.</p>
     </embed>
 </object>   
 
