@@ -46,10 +46,8 @@ editor_options:
 
 <font size="4">**June 4-6, 2024**</font>
 
-Register here: https://form.jotform.com/241166084098258
-
 :::{warning}
-Registration will close on **May 17th at 5 pm MST**
+Registration is closed
 :::
 
 ***
