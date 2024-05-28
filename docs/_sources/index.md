@@ -61,15 +61,15 @@ To collectively explore **current and prospective** monitoring methods for ungul
 ## Agenda  
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf" type="application/pdf" width="840px" height="660px">
+/8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf" type="application/pdf" width="840px" height="660px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">
+/8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/bc3743287cfb536a5c3919dcdcaab598/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf">Download PDF</a>.</p>
+/8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf">Download PDF</a>.</p>
     </embed>
 </object>   
 
-*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./1_pages/files/Monitoring-Methods-Workshop-Agenda-May-9-2024-Post.pdf)                                                       
+*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./1_pages/files/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf)                                                       
 
 ***
 
