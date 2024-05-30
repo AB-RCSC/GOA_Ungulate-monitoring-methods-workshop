@@ -20,7 +20,7 @@ editor_options:
 ````{div} full-width
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf" type="application/pdf" width="840px" height="660px">
+/da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf" type="application/pdf" width="880px" height="1120px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
@@ -38,7 +38,7 @@ editor_options:
 ````{div} full-width
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf" type="application/pdf" width="660px" height="840px">
+/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf" type="application/pdf" width="1120px" height="880px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
