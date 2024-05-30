@@ -17,6 +17,8 @@ editor_options:
 
 # Information for Participants
 
+````{div} full-width
+
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf" type="application/pdf" width="840px" height="660px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
@@ -29,3 +31,23 @@ editor_options:
 *Download the PDF* [Information for Participants - GOA Ungulate monitoring methods workshop](./files/Information-Package-for-Participants-May-7-2024.pdf)                                                       
 
 ***
+````
+
+# Participant Contact Information
+
+````{div} full-width
+
+<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf" type="application/pdf" width="660px" height="840px">
+    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
+/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf">Download PDF</a>.</p>
+    </embed>
+</object>  
+
+[*Download the PDF*](./files/Participant-Contact-Info.pdf)  
+
+[*Download the XLS*](./files/Workshop-Participants-Contact-Information.xlsx)
+
+````

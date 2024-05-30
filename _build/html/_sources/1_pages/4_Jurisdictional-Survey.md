@@ -16,6 +16,7 @@ editor_options:
 ---
 
 # Ungulate Monitoring Methods Jurisdictional Survey
+
 <https://form.jotform.com/241216843356254>
   
 Alberta Environment and Protected Areas (EPA) is interested in gathering insights from other jurisdictions regarding their current or proposed methods for monitoring ungulates. This information will aid us in evaluating options to address our management objectives and in determining opportunities for collaboration to address shared knowledge gaps.
@@ -25,4 +26,4 @@ The survey takes about 10 minutes to complete.
 
 A summary of the results will be provided to participating jurisdictions.
 
-Thank you for your help. 
+Thank you for your help.

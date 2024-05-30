@@ -17,6 +17,8 @@ editor_options:
 
 # Information for Invited Speakers
 
+````{div} full-width
+
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /85cebce89b0b7fe4dcf5ed1ddaeac3c3/Information-Package-for-Invited-Speakers-May-7-2024.pdf" type="application/pdf" width="840px" height="660px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
@@ -29,3 +31,5 @@ editor_options:
 *Download the PDF* [Information for Invited Speakers - GOA Ungulate monitoring methods workshop](./files/Information-Package-for-Invited-Speakers-May-7-2024.pdf)                                                       
 
 ***
+
+````
