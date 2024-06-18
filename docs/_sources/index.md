@@ -47,9 +47,13 @@ editor_options:
 
 <font size="4">**June 4-6, 2024**</font>
 
-:::{warning}
-Registration is closed
+:::{note}
+**Post-Workshop Feedback Survey:** <https://your.alberta.ca/epa-internal-engagement/survey_tools/ungulate-workshop-feedback>
+
+Please complete the survey by **Friday, June 21st, 2024**
 :::
+
+
 
 ***
 
