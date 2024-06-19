@@ -14,21 +14,73 @@ jupyter:
 
 # Speaker Bios & Presentations
 
-## Schedule & Section Links
-<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/13fc38d439aa05beddfbaf8d697e75d3/Schedule-Links.pdf" type="application/pdf" width="880px" height="1120px">
-    <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/13fc38d439aa05beddfbaf8d697e75d3/Schedule-Links.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/13fc38d439aa05beddfbaf8d697e75d3/Schedule-Links.pdf">Download PDF</a>.</p>
-    </embed>
-</object>     
+::::::{card}
+<font size="4"> **Outline & Links** </font>
+<font size="2">
 
-*Download the PDF* [Schedule-Links.pdf](./files/Schedule-Links.pdf)    
+**Workshop Welcome & Monitoring Needs**
+
+*Tues, June 4 - 09:00-10:15*
+
+-   [Sue Cotterill](#Sue-Cotterill)
+-   [Mark Edwards](#Mark-Edwards)
+-   [Dan Farr](#Dan-Farr)
+-   [Mark Boyce](#Mark-Boyce)
+-   [Panel – Q & A](#Panel-QA_Welcome)
+
+**Ungulate Monitoring Methods & Manned Aircraft**
+
+Tues, June 4 - 10:30-12:20
+
+-   [Anne Hubbs](#Anne-Hubbs)
+-   [Kayla Davis](#Kayla-Davis)
+-   [Mike Russell](#Mike-Russell)
+-   [Pauline Priadka](#Pauline-Priadka)
+-   [Panel - Q & A](#Panel-QA_methods_mannedaerial)
+
+**Aerial Infrared Imaging & Drones**
+
+Tues, June 4 - 13:00-14:50
+
+-   [Daniel Melody](#Daniel-Melody)
+-   [Kanwar Johal](#Kanwar-Johal)
+-   [Todd Whiklo / Kirsten Solmundson](#Todd-Whiklo_Kirsten-Solmundson)
+-   [Nicholas Coops](#Nicholas-Coops)
+-   [Panel – Q & A](#Panel-QA_aerial_drone)
+
+**Remote Cameras & Telemetry**
+
+Wed, June 5 - 10:00-12:20
+
+-   [Jamie Clarke](#Jamie-Clarke)
+-   [Marcus Becker](#Marcus-Becker)
+-   [Sydney Gowan / Steve Anderson](#Sydney-Gowan_Steve-Anderson)
+-   [Jon Horne](#Jon-Horne)
+-   [Randy Larsen](#Randy-Larsen)
+-   [Panel – Q & A](#Panel-QA_cam_telemetry)
+
+**Genetics / DNA**
+
+Thurs, June 6 - 09:10 - 10:10
+
+-   [Lalenia Neufeld](#Lalenia-Neufeld)
+-   [Tabitha Graves](#Tabitha-Graves)
+-   [Panel – Q & A](#Panel-QA_genetics_dna)
+
+**Bringing It All Together: Using Integrated Population Models And Multiple Monitoring Methods**
+
+Thurs, June 6 - 10:30-12:10
+
+-   [Josh Nowak](#Josh-Nowak)
+-   [John Boulanger](#John-Boulanger)
+-   [Brett Furnas](#Brett-Furnas)
+-   [Panel – Q & A](#Panel-QA_integrated)
+</font>
+::::::
 
 ***
 
-## Speaker Bios & Presentations
+## Bios & Presentations
 
 ### Workshop Welcome & Monitoring Needs
 ***Day 1*** - *Tuesday, June 4th, 2024*
@@ -39,6 +91,7 @@ jupyter:
 :columns: 9
 
 (#Sue-Cotterill)=
+
 **Sue Cotterill**, Executive Director, Fish and Wildlife Stewardship, Environment and Protected Areas (EPA)
 
 **Title:** Workshop welcome
@@ -68,6 +121,7 @@ Outside of work, Sue enjoys gardening, getting lost in books, and ice fishing.
 :columns: 9
 
 (#Mark-Edwards)=
+
 **Mark Edwards**, Senior Science Advisor, Office of the Chief Scientist, EPA and Adjunct Professor, University of Alberta
 
 **Title:** Workshop introduction: Setting the stage
@@ -105,6 +159,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Dan-Farr)=
+
 **Dan Farr**, Regional Director, Alberta Fish and Wildlife Stewardship, EPA
 
 **Title:** Monitoring needs: Management agency perspectives
@@ -141,6 +196,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 :columns: 9
 
 (#Mark-Boyce)=
+
 **Mark Boyce**, Professor of Ecology and Alberta Conservation Association Chair in Fisheries & Wildlife, University of Alberta
 
 **Title:** Ungulate monitoring with boots on the ground: a researcher’s perspective
@@ -174,6 +230,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 (#Panel-QA_Welcome)=
+
 **Panel Q & A** - Workshop Welcome & Monitoring Needs
 ::::{dropdown} Watch - PANEL Q & A
 <center>
@@ -195,6 +252,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Anne-Hubbs)=
+
 **Anne Hubbs**, Senior Wildlife Biologist, Fish and Wildlife Stewardship, EPA
 
 **Title:** Whose doing what where: North American jurisdictional survey results
@@ -232,6 +290,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 :columns: 9
 
 (#Kayla-Davis)=
+
 **Kayla Davis**, Quantitative Ecologist and Postdoctoral Researcher, University of Saskatchewan
 
 **Title:** Addressing sources of error in aerial survey data: what are common pitfalls and solutions?
@@ -267,6 +326,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Mike-Russell)=
+
 **Mike Russell**, Senior Wildlife Biologist, Fish and Wildlife Stewardship, EPA
 
 **Title:** Improving precision and bias in ungulate survey estimates using distance sampling methods in Alberta
@@ -302,6 +362,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Pauline-Priadka)=
+
 **Pauline Priadka**, Wildlife Engagement Specialist, B.C. Water, Land and Resource Stewardship
 
 **Title:** Optimizing aerial survey frequency by assessing cost versus uncertainty
@@ -357,6 +418,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Daniel-Melody)=
+
 **Daniel Melody**, Wildlife Biologist and Operations Manager, Owyhee Air Research
 
 **Title:** Aerial Infrared for Monitoring Ungulate Populations at the Landscape Scale: Advantages and Important Considerations
@@ -391,6 +453,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Kanwar-Johal)=
+
 **Kanwar Johal**, co-founder, Superwake
 
 **Title:** Wildlife surveying using solar electric UAVs
@@ -426,6 +489,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Todd-Whiklo_Kirsten-Solmundson)=
+
 **Todd Whiklo**, Game and Fur Manager, Manitoba Wildlife Branch
 **Kirsten Solmundson**, Population Assessment Manager Manitoba Wildlife Branch
 
@@ -476,6 +540,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Nicholas-Coops)=
+
 **Nicholas Coops**, Professor, University of British Columbia and a Canada Research Chair (Tier 1) in Remote Sensing
 
 **Title:** Examining the current practicality and potential of Copter and Fixed Wing Drones for wildlife surveys. Initial Project Development and Plans
@@ -509,6 +574,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 (#Panel-QA_aerial_drone)=
+
 **Panel Q & A** - Aerial Infrared Imaging & Drones
 ::::{dropdown} Watch - PANEL Q & A
 <center>
@@ -530,6 +596,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Jamie-Clarke)=
+
 **Jamie Clarke**, Masters student, University of Victoria
 
 **Title:** Camera traps for density estimation: an eye to improving the science that guides game species management
@@ -567,6 +634,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Marcus-Becker)=
+
 **Marcus Becker**, Applied Ecologist, Alberta Biodiversity Monitoring Institute
 
 **Title:** Comparisons between moose densities with aerial surveys and integrated camera projects
@@ -602,6 +670,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Sydney-Gowan_Steve-Anderson)=
+
 **Sydney Goward**, Planning Officer, Ministry of Forests  
 **Steve Anderson**, Wildlife Biologist, Gwich’in Renewable Resources Board
 
@@ -642,6 +711,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Jon-Horne)=
+
 **Jon Horne**, Senior Wildlife Research Biologist, Idaho Department of Fish and Game
 
 **Title:** Using remote cameras to inform Idaho’s management program
@@ -710,6 +780,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 (#Panel-QA_cam_telemetry)=
+
 **Panel Q & A** - Remote Cameras & Telemetry
 ::::{dropdown} Watch - PANEL Q & A
 <center>
@@ -731,6 +802,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Lalenia-Neufeld)=
+
 **Lalenia Neufeld**, Wildlife/Caribou Biologist, Jasper National Park, Parks Canada
 
 **Title:** Long-term fecal DNA informs details of a local caribou population
@@ -766,6 +838,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Tabitha-Graves)=
+
 **Tabitha Graves**, Supervisory Research Ecologist, Glacier National Park
 
 **Title:** Using DNA and citizen science to estimate goat and bighorn populations in Glacier and other U.S. National Parks
@@ -821,6 +894,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Josh-Nowak)=
+
 **Josh Nowak**, founder, SpeedGoat Wildlife Solutions
 
 **Title:** Beyond descriptions: Leveraging disparate data sources with Integrated Population Models
@@ -857,6 +931,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#John-Boulanger)=
+
 **John Boulanger**, biometrician, Integrated Ecological Research, B.C.
 
 **Title:** Various tools to confront challenging ungulate survey data: A barren-ground caribou case study
@@ -893,6 +968,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{grid-item}
 :columns: 9
 (#Brett-Furnas)=
+
 **Brett Furnas**, Big Game Conservation and Science Support Supervisor, California Department of Fish and Wildlife
 
 **Title:** Using multiple methods to estimate population size and composition of mule deer
