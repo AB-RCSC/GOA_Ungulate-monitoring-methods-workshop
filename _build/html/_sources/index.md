@@ -50,7 +50,7 @@ editor_options:
 :::{note}
 **Post-Workshop Feedback Survey:** <https://your.alberta.ca/epa-internal-engagement/survey_tools/ungulate-workshop-feedback>
 
-Please complete the survey by **Friday, June 21st, 2024**
+Please complete the survey by **Wednesday, June 26th, 2024**
 :::
 
 
