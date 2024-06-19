@@ -620,8 +620,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::{dropdown} Watch Presentation - Jamie Clarke
 <center>
-    
-<iframe src="https://drive.google.com/file/d/1lxb_qCqshETWbth_TxF7v8fB8byT0oB4/preview" width="640" height="360" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1mDIuCxEN2SlhcgfA5LLUcImNgW7w-x7c/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -658,7 +658,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Marcus Becker
 <center>
     
-<iframe src="https://drive.google.com/file/d/1z-Fg1aQu0k4JYk6HTeZptTR2z_nJyxpU/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1s_JHbFVKdWUMjpTqVyiSa_YC9F-v-ahp/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -697,9 +697,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::{dropdown} Watch Presentation - Sydney Goward & Steve Anderson
 <center>
-    
-<iframe src="https://drive.google.com/file/d/1k6pn1bsCoC_SaE2ZzRNpH8bswOclkui5/preview" width="640" height="360" allow="autoplay"></iframe>
-    
+
+<iframe src="https://drive.google.com/file/d/1XLdFgFmw-0zUmn0Zjkb9pUT8lT92T6WO/preview" width="640" height="360" allow="autoplay"></iframe>
+
 </center>
 
 ::::
@@ -735,9 +735,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::{dropdown} Watch Presentation - Jon Horne
 <center>
-    
-<iframe src="https://drive.google.com/file/d/1qFK7fW6pFloog1-15ZS6dcKTy7qDoOe9/preview" width="640" height="360" allow="autoplay"></iframe>
-    
+
+<iframe src="https://drive.google.com/file/d/1L9ardxKel2OHDP3GrkGsKu5n7yvYrKII/preview" width="640" height="360" allow="autoplay"></iframe>
+
 </center>
 
 ::::
@@ -771,7 +771,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Randy Larsen
 <center>
 
-<iframe src="https://drive.google.com/file/d/1z4oQiLy4CJ4ILRRjSKFq7bQDzBOIpmQ3/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vg5sJh5tq1w0zSKFU2QzOVWs37JRZxQt/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -784,8 +784,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 **Panel Q & A** - Remote Cameras & Telemetry
 ::::{dropdown} Watch - PANEL Q & A
 <center>
-    
-<iframe src="https://drive.google.com/file/d/1TOLdOTIFra8M5j-cegnyy9EbPhYh0jYS/preview" width="640" height="360" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1tXYvUHeEnCHKdwkhWCv2BdmSqVXVNN7z/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -826,7 +826,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Lalenia Neufeld
 <center>
     
-<iframe src="https://drive.google.com/file/d/1LlkOMVOZs-l1KjxLzIjTId06Zvs9ZiOA/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11yi345TCz6VM-VK3qec3rvyaB0OfVo7I/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -863,7 +863,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Tabitha Graves
 <center>
 
-<iframe src="https://drive.google.com/file/d/1-vzZYVH56hpcYbmLV7xEN1R0gE2UI1Wc/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Z-bSTsoT_mBIQ97tkCjSbk-ho74wwIPk/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -876,7 +876,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch - PANEL Q & A
 <center>
 
-<iframe src="https://drive.google.com/file/d/17_HVmujMaM-DHfp2MKjd1xEzTF_TlRKQ/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ewQW0g6T2qE8ScLvE9QFaT-eVrztgika/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -918,7 +918,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Josh Nowak
 <center>
     
-<iframe src="https://drive.google.com/file/d/1d8SGSsyNrCR-hVXrdN2_lqSyNYJ8vrBm/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1FMtdh_EOTJCnbHnKph4qG3Xl0qW1ZPcw/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -955,7 +955,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - John Boulanger
 <center>
     
-<iframe src="https://drive.google.com/file/d/10rarwsfWQlJHolzXiWiKysZAzwZvtRHA/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vpptVUhpZEfGtn2EbYouauYoQ_zWJb53/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -992,7 +992,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch Presentation - Brett Furnas
 <center>
     
-<iframe src="https://drive.google.com/file/d/1YnCe9OYR4yIIgeQd-lEKL7hGXz6dxFee/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10TegKb81Z3dcwIpmhIA11h_mhaf49Hzs/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -1008,7 +1008,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::{dropdown} Watch - PANEL Q & A
 <center>
     
-<iframe src="https://drive.google.com/file/d/1Hc-zOFzlARRpqJ3o7H_eBb8uDeig2VSx/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1JhLAOORxgpu-tcimlZM9t-glSr_PdSM2/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
