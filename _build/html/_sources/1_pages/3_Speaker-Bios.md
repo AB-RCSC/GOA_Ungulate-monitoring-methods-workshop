@@ -85,12 +85,12 @@ Thurs, June 6 - 10:30-12:10
 ### Workshop Welcome & Monitoring Needs
 ***Day 1*** - *Tuesday, June 4th, 2024*
 
+(#Sue-Cotterill)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-
-(#Sue-Cotterill)=
 
 **Sue Cotterill**, Executive Director, Fish and Wildlife Stewardship, Environment and Protected Areas (EPA)
 
@@ -115,12 +115,12 @@ Outside of work, Sue enjoys gardening, getting lost in books, and ice fishing.
 ::::::
 
 
+(#Mark-Edwards)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-
-(#Mark-Edwards)=
 
 **Mark Edwards**, Senior Science Advisor, Office of the Chief Scientist, EPA and Adjunct Professor, University of Alberta
 
@@ -154,11 +154,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Dan-Farr)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Dan-Farr)=
 
 **Dan Farr**, Regional Director, Alberta Fish and Wildlife Stewardship, EPA
 
@@ -190,12 +191,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Mark-Boyce)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-
-(#Mark-Boyce)=
 
 **Mark Boyce**, Professor of Ecology and Alberta Conservation Association Chair in Fisheries & Wildlife, University of Alberta
 
@@ -228,8 +229,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::
 
-::::::{card}
 (#Panel-QA_Welcome)=
+
+::::::{card
 
 **Panel Q & A** - Workshop Welcome & Monitoring Needs
 ::::{dropdown} Watch - PANEL Q & A
@@ -247,11 +249,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ### Ungulate Monitoring Methods & Manned Aircraft
 ***Day 1*** - *Tuesday, June 4th, 2024*
 
+(#Anne-Hubbs)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Anne-Hubbs)=
 
 **Anne Hubbs**, Senior Wildlife Biologist, Fish and Wildlife Stewardship, EPA
 
@@ -284,12 +287,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::
 
+(#Kayla-Davis)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-
-(#Kayla-Davis)=
 
 **Kayla Davis**, Quantitative Ecologist and Postdoctoral Researcher, University of Saskatchewan
 
@@ -321,11 +324,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Mike-Russell)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Mike-Russell)=
 
 **Mike Russell**, Senior Wildlife Biologist, Fish and Wildlife Stewardship, EPA
 
@@ -357,11 +361,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Pauline-Priadka)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Pauline-Priadka)=
 
 **Pauline Priadka**, Wildlife Engagement Specialist, B.C. Water, Land and Resource Stewardship
 
@@ -393,9 +398,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Panel-QA_methods_mannedaerial)=
 
 ::::::{card}
-(#Panel-QA_methods_mannedaerial)=
 
 **Panel Q & A** - Ungulate Monitoring Methods & Manned Aircraft
 ::::{dropdown} Watch - PANEL Q & A
@@ -413,11 +418,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ### Aerial Infrared Imaging & Drones
 ***Day 1*** - *Tuesday, June 4th, 2024*
 
+(#Daniel-Melody)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Daniel-Melody)=
 
 **Daniel Melody**, Wildlife Biologist and Operations Manager, Owyhee Air Research
 
@@ -448,11 +454,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Kanwar-Johal)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Kanwar-Johal)=
 
 **Kanwar Johal**, co-founder, Superwake
 
@@ -484,11 +491,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Todd-Whiklo_Kirsten-Solmundson)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Todd-Whiklo_Kirsten-Solmundson)=
 
 **Todd Whiklo**, Game and Fur Manager, Manitoba Wildlife Branch
 **Kirsten Solmundson**, Population Assessment Manager Manitoba Wildlife Branch
@@ -535,11 +543,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Nicholas-Coops)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Nicholas-Coops)=
 
 **Nicholas Coops**, Professor, University of British Columbia and a Canada Research Chair (Tier 1) in Remote Sensing
 
@@ -591,11 +600,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ### Remote Cameras & Telemetry
 ***Day 2*** - *Wednesday, June 5th, 2024*
 
+(#Jamie-Clarke)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Jamie-Clarke)=
 
 **Jamie Clarke**, Masters student, University of Victoria
 
@@ -628,12 +638,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Marcus-Becker)=
 
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Marcus-Becker)=
 
 **Marcus Becker**, Applied Ecologist, Alberta Biodiversity Monitoring Institute
 
@@ -665,11 +675,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Sydney-Gowan_Steve-Anderson)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Sydney-Gowan_Steve-Anderson)=
 
 **Sydney Goward**, Planning Officer, Ministry of Forests  
 **Steve Anderson**, Wildlife Biologist, Gwich’in Renewable Resources Board
@@ -705,12 +716,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Jon-Horne)=
 
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Jon-Horne)=
 
 **Jon Horne**, Senior Wildlife Research Biologist, Idaho Department of Fish and Game
 
@@ -742,6 +753,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::
 ::::::
+
+(#Randy-Larsen)=
 
 ::::::{card}
 :::::{grid} 2
@@ -797,11 +810,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ### Genetics / DNA
 ***Day 3*** - *Thursday, June 6th, 2024*
 
+(#Lalenia-Neufeld)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Lalenia-Neufeld)=
 
 **Lalenia Neufeld**, Wildlife/Caribou Biologist, Jasper National Park, Parks Canada
 
@@ -833,11 +847,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Tabitha-Graves)=
+
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Tabitha-Graves)=
 
 **Tabitha Graves**, Supervisory Research Ecologist, Glacier National Park
 
@@ -872,7 +887,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 (#Panel-QA_genetics_dna)=
-### Panel Q & A - Genetics / DNA
+**Panel Q & A - Genetics / DNA**
 ::::{dropdown} Watch - PANEL Q & A
 <center>
 
@@ -885,15 +900,15 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-
 ### Bringing It All Together
 *Using Integrated Population Models And Multiple Monitoring Methods*
+
+(#Josh-Nowak)=
 
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Josh-Nowak)=
 
 **Josh Nowak**, founder, SpeedGoat Wildlife Solutions
 
@@ -925,12 +940,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#John-Boulanger)=
 
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#John-Boulanger)=
 
 **John Boulanger**, biometrician, Integrated Ecological Research, B.C.
 
@@ -948,11 +963,11 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ```
 
 </center>
-
 ::::
 :::::
 
 ::::{dropdown} Watch Presentation - John Boulanger
+
 <center>
     
 <iframe src="https://drive.google.com/file/d/1vpptVUhpZEfGtn2EbYouauYoQ_zWJb53/preview" width="640" height="360" allow="autoplay"></iframe>
@@ -962,12 +977,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Brett-Furnas)=
 
 ::::::{card}
 :::::{grid} 2
 ::::{grid-item}
 :columns: 9
-(#Brett-Furnas)=
 
 **Brett Furnas**, Big Game Conservation and Science Support Supervisor, California Department of Fish and Wildlife
 
@@ -990,6 +1005,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 :::::
 
 ::::{dropdown} Watch Presentation - Brett Furnas
+
 <center>
     
 <iframe src="https://drive.google.com/file/d/10TegKb81Z3dcwIpmhIA11h_mhaf49Hzs/preview" width="640" height="360" allow="autoplay"></iframe>
@@ -999,13 +1015,15 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::::
 
+(#Panel-QA_integrated)=
 
 ::::::{card}
-(#Panel-QA_integrated)=
-### PANEL Q & A - Bringing It All Together
+
+**PANEL Q & A - Bringing It All Together**
 *Using Integrated Population Models And Multiple Monitoring Methods*
 
 ::::{dropdown} Watch - PANEL Q & A
+
 <center>
     
 <iframe src="https://drive.google.com/file/d/1JhLAOORxgpu-tcimlZM9t-glSr_PdSM2/preview" width="640" height="360" allow="autoplay"></iframe>
