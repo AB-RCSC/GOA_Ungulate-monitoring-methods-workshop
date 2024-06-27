@@ -16,8 +16,9 @@ jupyter:
 
 ***
 
-### Workshop Welcome & Monitoring Needs
-***Day 1*** - *Tuesday, June 4th, 2024*
+## ***Day 1*** - *Tuesday, June 4th, 2024*
+
+### Day 1: Workshop Welcome & Monitoring Needs
 
 (#Sue-Cotterill)=
 
@@ -163,25 +164,35 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::
 
-(#Panel-QA_Welcome)=
+::::::{card}
 
-::::::{card
+**Day 1: Workshop Welcome & Monitoring Needs - Panel Q & A**
 
-**Panel Q & A** - Workshop Welcome & Monitoring Needs
-::::{dropdown} Watch - PANEL Q & A
+::::{dropdown} Watch
+
 <center>
-    
+
 <iframe src="https://drive.google.com/file/d/13uG-v8-fxyfY6w6Cbfa_mbFnlfCedFfe/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
 ::::
+
+::::{dropdown} Read
+
+<center>
+    
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQYjQzuJTYGGc1WFPBNCUBnq4u_mhgxXaKau1bFoU7FeCXyd3aVBYt23yX9v3PGpg/pub?embedded=true"></iframe>
+
+</center>
+
+::::
+
 ::::::
 
 ***
 
-### Ungulate Monitoring Methods & Manned Aircraft
-***Day 1*** - *Tuesday, June 4th, 2024*
+### Day 1: Ungulate Monitoring Methods & Manned Aircraft
 
 (#Anne-Hubbs)=
 
@@ -336,8 +347,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 
-**Panel Q & A** - Ungulate Monitoring Methods & Manned Aircraft
-::::{dropdown} Watch - PANEL Q & A
+**Day 1: Ungulate Monitoring Methods & Manned Aircraft - Panel Q & A**
+
+::::{dropdown} Watch
 <center>
     
 <iframe src="https://drive.google.com/file/d/1__uDzpprFvDi8TNk8DGtvdOzKzyWW5sS/preview" width="640" height="360" allow="autoplay"></iframe>
@@ -349,8 +361,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-### Aerial Infrared Imaging & Drones
-***Day 1*** - *Tuesday, June 4th, 2024*
+### Day 1: Aerial Infrared Imaging & Drones
 
 (#Daniel-Melody)=
 
@@ -516,13 +527,15 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::::
 
 ::::::{card}
+
 (#Panel-QA_aerial_drone)=
 
-**Panel Q & A** - Aerial Infrared Imaging & Drones
-::::{dropdown} Watch - PANEL Q & A
+**Day 1: Ungulate Monitoring Methods & Manned Aircraft - Panel Q & A**
+
+::::{dropdown} Watch
 <center>
 
-<iframe src="https://drive.google.com/file/d/1kRAuZr3s6SUtWz2UehZnPtqv3YGkJ_4R/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1DX31haa3ggukktXVU6Rci9LtRRcFEQaj/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 
@@ -531,8 +544,24 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-### Remote Cameras & Telemetry
-***Day 2*** - *Wednesday, June 5th, 2024*
+## ***Day 2*** - *Wednesday, June 5th, 2024*
+
+### Day 2: Recap Day 1 & Breakout Session Summaries
+
+::::::{card}
+
+::::{dropdown} Watch
+
+<center>
+
+<iframe src="https://drive.google.com/file/d/1pXiZCBqTdTaLsGx-uCwBrQnEjr2WVdTL/preview" width="640" height="360" allow="autoplay"></iframe>
+
+</center>
+
+::::
+::::::
+
+### Day 2: Remote Cameras & Telemetry
 
 (#Jamie-Clarke)=
 
@@ -726,10 +755,11 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::::
 
 ::::::{card}
+
 (#Panel-QA_cam_telemetry)=
 
-**Panel Q & A** - Remote Cameras & Telemetry
-::::{dropdown} Watch - PANEL Q & A
+**Day 2: Remote Cameras & Telemetry - Panel Q & A**
+::::{dropdown} Watch
 <center>
 
 <iframe src="https://drive.google.com/file/d/1tXYvUHeEnCHKdwkhWCv2BdmSqVXVNN7z/preview" width="640" height="360" allow="autoplay"></iframe>
@@ -741,7 +771,22 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-### Genetics / DNA
+::::::{card}
+
+**Day 2: Breakout Session Summaries & Discussion**
+::::{dropdown} Watch
+<center>
+
+<iframe src="https://drive.google.com/file/d/13-TUbxeg2ydB-HtJwUvxuHTcKp9FNLZl/preview" width="640" height="360" allow="autoplay"></iframe>
+
+</center>
+
+::::
+::::::
+
+***
+
+### Day 3: Genetics / DNA
 ***Day 3*** - *Thursday, June 6th, 2024*
 
 (#Lalenia-Neufeld)=
@@ -821,8 +866,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 (#Panel-QA_genetics_dna)=
-**Panel Q & A - Genetics / DNA**
-::::{dropdown} Watch - PANEL Q & A
+**Day 3: Genetics / DNA - Panel Q & A**
+::::{dropdown} Watch
 <center>
 
 <iframe src="https://drive.google.com/file/d/1ewQW0g6T2qE8ScLvE9QFaT-eVrztgika/preview" width="640" height="360" allow="autoplay"></iframe>
@@ -834,7 +879,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-### Bringing It All Together
+### Day 3: Bringing It All Together
 *Using Integrated Population Models And Multiple Monitoring Methods*
 
 (#Josh-Nowak)=
@@ -953,14 +998,48 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::::{card}
 
-**PANEL Q & A - Bringing It All Together**
+**Day 3: Bringing It All Together: Panel Q & A**
 *Using Integrated Population Models And Multiple Monitoring Methods*
 
-::::{dropdown} Watch - PANEL Q & A
+::::{dropdown} Watch
 
 <center>
     
 <iframe src="https://drive.google.com/file/d/1JhLAOORxgpu-tcimlZM9t-glSr_PdSM2/preview" width="640" height="360" allow="autoplay"></iframe>
+
+</center>
+
+::::
+::::::
+
+***
+
+::::::{card}
+
+### Day 3: Breakout Session Summaries & Discussion
+
+::::{dropdown} Watch
+
+<center>
+
+<iframe src="https://drive.google.com/file/d/1dSGwUgC-iCY2TgZDl4S9pSHMJkG2voIW/preview" width="640" height="360" allow="autoplay"></iframe>
+
+</center>
+
+::::
+::::::
+
+***
+
+::::::{card}
+
+### Day 3: Next Steps & Workshop Wrap-Up
+
+::::{dropdown} Watch
+
+<center>
+    
+<iframe src="https://drive.google.com/file/d/1KHDvI6XYmoa5aqRsesv156yV94V6rd9R/preview" width="640" height="360" allow="autoplay"></iframe>
 
 </center>
 

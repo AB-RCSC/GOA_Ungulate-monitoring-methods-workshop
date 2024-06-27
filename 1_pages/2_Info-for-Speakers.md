@@ -15,7 +15,7 @@ editor_options:
     wrap: none
 ---
 
-# Information for Invited Speakers
+# Info for Speakers
 
 ````{div} full-width
 

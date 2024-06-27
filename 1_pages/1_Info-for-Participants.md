@@ -15,7 +15,7 @@ editor_options:
     wrap: none
 ---
 
-# Information for Participants
+# Info for Participants
 
 ````{div} full-width
 

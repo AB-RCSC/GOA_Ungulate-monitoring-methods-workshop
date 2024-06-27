@@ -15,7 +15,7 @@ editor_options:
     wrap: none
 ---
 
-# Ungulate monitoring methods workshop
+# General Information
 
 <br>
 <br>

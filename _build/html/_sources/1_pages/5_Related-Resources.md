@@ -15,7 +15,7 @@ editor_options:
     wrap: none
 ---
 
-# Literature & Related resources
+# Literature & Resources
 
 ````{div} full-width
 
