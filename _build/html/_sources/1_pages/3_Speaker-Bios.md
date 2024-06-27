@@ -182,7 +182,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 <center>
 
-<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads/443533b3f1a90b1e088d10a998cbd270/1-14_Panel-QA_1-3_Workshop-Welcome-&-Monitoring-Needs.pdf" type="application/pdf" width="880px" height="1120px">
+<object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads/443533b3f1a90b1e088d10a998cbd270/1-14_Panel-QA_1-3_Workshop-Welcome-&-Monitoring-Needs.pdf" type="application/pdf" width="660px" height="840px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads/443533b3f1a90b1e088d10a998cbd270/1-14_Panel-QA_1-3_Workshop-Welcome-&-Monitoring-Needs.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads/443533b3f1a90b1e088d10a998cbd270/1-14_Panel-QA_1-3_Workshop-Welcome-&-Monitoring-Needs.pdf">Download PDF</a>.</p>
     </embed>
@@ -372,7 +372,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 <center>
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/3ee45922beb1318c8ed5152889c05478/1-5-2_Panel-QA_1-1_Ungulate-Monitoring-Methods-&-Manned-Aircraft.pdf" type="application/pdf" width="880px" height="1120px">
+/3ee45922beb1318c8ed5152889c05478/1-5-2_Panel-QA_1-1_Ungulate-Monitoring-Methods-&-Manned-Aircraft.pdf" type="application/pdf" width="660px" height="840px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /3ee45922beb1318c8ed5152889c05478/1-5-2_Panel-QA_1-1_Ungulate-Monitoring-Methods-&-Manned-Aircraft.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
@@ -389,7 +389,6 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 
 ::::::
-
 
 ***
 
@@ -805,14 +804,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-## ***Day 2*** - *Wednesday, June 5th, 2024*
-
-***Day 2: Recap Day 1 & Breakout Session Summaries***
-
-
-
-
-# ***Day 3*** - *Thursday, June 6th, 2024*
+### Day 2: Breakout Session Summaries & Discussion**
 
 ::::::{card}
 
@@ -923,6 +915,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ***
 
 ### Day 3: Bringing It All Together
+
 *Using Integrated Population Models And Multiple Monitoring Methods*
 
 (#Josh-Nowak)=
