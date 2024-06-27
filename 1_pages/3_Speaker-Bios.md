@@ -821,7 +821,9 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ***
 
-## Day 3: Genetics / DNA
+## ***Day 3*** - *Thursday, June 6th, 2024*
+
+### Day 3: Genetics / DNA
 ***Day 3*** - *Thursday, June 6th, 2024*
 
 (#Lalenia-Neufeld)=
