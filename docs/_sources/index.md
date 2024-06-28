@@ -48,9 +48,9 @@ editor_options:
 <font size="4">**June 4-6, 2024**</font>
 
 :::{note}
-**Post-Workshop Feedback Survey:** <https://your.alberta.ca/epa-internal-engagement/survey_tools/ungulate-workshop-feedback>
 
-Please complete the survey by **Wednesday, June 26th, 2024**
+**Post-Workshop Feedback Survey is closed**
+
 :::
 
 
@@ -66,7 +66,7 @@ To collectively explore **current and prospective** monitoring methods for ungul
 ## Agenda  
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf" type="application/pdf" width="880px" height="691px">
+/8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf" type="application/pdf" width="800px" height="680px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /8baa25c45d14b2d30ff8ff7c3736ebdb/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
@@ -74,7 +74,7 @@ To collectively explore **current and prospective** monitoring methods for ungul
     </embed>
 </object>   
 
-*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./1_pages/files/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf)                                                       
+*Download the PDF* [Agenda - GOA Ungulate monitoring methods workshop](./1_pages/files/Final-Ungulate-Monitoring-Methods-Workshop-Program-May-28-2024.pdf)                                        
 
 ***
 
