@@ -14,10 +14,7 @@ editor_options:
   markdown:
     wrap: none
 ---
-
 # Info for Participants
-
-````{div} full-width
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /da43668173720fac13561dd06ca200f9/Information-Package-for-Participants-May-7-2024.pdf" type="application/pdf" width="880px" height="1120px">
@@ -28,14 +25,11 @@ editor_options:
     </embed>
 </object>   
 
-*Download the PDF* [Information for Participants - GOA Ungulate monitoring methods workshop](./files/Information-Package-for-Participants-May-7-2024.pdf)                                                       
+[*Download the PDF*](./files/Information-Package-for-Participants-May-7-2024.pdf)                                               
 
 ***
-````
 
 # Participant Contact Information
-
-````{div} full-width
 
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
 /5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf" type="application/pdf" width="1020px" height="880px">
@@ -49,5 +43,3 @@ editor_options:
 [*Download the PDF*](./files/Participant-Contact-Info.pdf)  
 
 [*Download the XLS*](./files/Workshop-Participants-Contact-Information.xlsx)
-
-````

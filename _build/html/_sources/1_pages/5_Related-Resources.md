@@ -14,11 +14,7 @@ editor_options:
   markdown:
     wrap: none
 ---
-
 # Literature & Resources
-
-````{div} full-width
-
 |                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                       |
 |--------------|------------------------------------------------|-----------|
 | **Subject**                              | **Reference**                                                                                                                                                                                                                                                                                                                                                                                                                              | **PDF download**                                                                                                                                                      |
@@ -82,5 +78,3 @@ editor_options:
 | Attendee Submissions                     | Nagy-Reis, M., Reimer, J. R., Lewis, M. A., Jensen, W. F., & Boyce, M. S. (2021). Aligning population models with data: Adaptive management for big game harvests. *Global Ecology and Conservation*, *26*, e01501. <https://doi.org/10.1016/j.gecco.2021.e01501>                                                                                                                                                                          | [*Download*](./literature/9_From-Attendees/Nagy-Reis-et-al-2021_Aligning-population-models-with-data-Adaptive-management-for-big-game-harvests.pdf)                   |
 | Attendee Submissions                     | Nielsen, S., Bayne, E., Schieck, J., Herbers, J., & Boutin, S. (2007). A new method to estimate species and biodiversity intactness using empirically derived reference conditions. *Biological Conservation*, *137*(3), 403–414. <https://doi.org/10.1016/j.biocon.2007.02.024>                                                                                                                                                           | [*Download*](./literature/9_From-Attendees/Nielsen-et-al-2007_A-new-method-to-estimate-species-and-biodiversity-intactness.pdf)                                       |
 | Attendee Submissions                     | Peters, W., Hebblewhite, M., Smith, K. G., Webb, S. M., Webb, N., Russell, M., Stambaugh, C., & Anderson, R. B. (2014). Contrasting aerial moose population estimation methods and evaluating sightability in west‐central Alberta, Canada. *Wildlife Society Bulletin*, *38*(3), 639–649. <https://doi.org/10.1002/wsb.433>                                                                                                               | [*Download*](./literature/9_From-Attendees/Peters-et-al-2014_WSB-Distance-Sampling.pdf)                                                                               |
-
-````
