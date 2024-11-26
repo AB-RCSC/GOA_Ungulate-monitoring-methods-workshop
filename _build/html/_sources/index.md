@@ -14,14 +14,14 @@ editor_options:
   markdown:
     wrap: none
 ---
+# GOA Ungulate Monitoring Methods Workshop
 
-# General Information
-
+<br>
 <br>
 <br>
 
 ::::{grid} 
-:gutter: 3
+:gutter: 1
 
 :::{grid-item}
 ```{figure} ./logos/govt_logo_663142569349d6_04655200.png 
@@ -32,14 +32,14 @@ editor_options:
 
 :::{grid-item}
 ```{figure} ./logos/ABMI-Horizontal-FullColour.jpg
-:width: 200px 
+:width: 230px 
 :align: center
 ```
 :::
 
 :::{grid-item}
 ```{figure} ./logos/RCSC_logo2.png
-:width: 100px 
+:width: 120px 
 :align: center
 :::
 ::::
