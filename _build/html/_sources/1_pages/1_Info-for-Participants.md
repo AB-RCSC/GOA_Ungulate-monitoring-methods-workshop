@@ -30,14 +30,14 @@ editor_options:
 
 # Participant Contact Information
 <object data="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf" type="application/pdf" width="1020px" height="880px">
+/582ff291c3aa1b5bc066eda6eadbe374/Participant-Contact-Info_Dec-2024.pdf" type="application/pdf" width="1020px" height="880px">
     <embed src="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf">
+/582ff291c3aa1b5bc066eda6eadbe374/Participant-Contact-Info_Dec-2024.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ab-rcsc.github.io/GOA_Ungulate-monitoring-methods-workshop/_downloads
-/5b00a9ead79367491265b25fed971216/Participant-Contact-Info.pdf">Download PDF</a>.</p>
+/582ff291c3aa1b5bc066eda6eadbe374/Participant-Contact-Info_Dec-2024.pdf">Download PDF</a>.</p>
     </embed>
 </object>  
 
-[*Download the PDF*](./files/Participant-Contact-Info.pdf)  
+[*Download the PDF*](./files/Participant-Contact-Info_Dec-2024.pdf)  
 
-[*Download the XLS*](./files/Workshop-Participants-Contact-Information.xlsx)
+[*Download the XLS*](./files/Workshop-Participants-Contact-Information_Dec-2024.xlsx)
